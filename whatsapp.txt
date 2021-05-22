@@ -5,3 +5,4 @@
 2.chat screen code
 3.last seen code
 4.attachement (audio,video,image)
+5.hiding the last screen
